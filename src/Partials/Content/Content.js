@@ -36,7 +36,7 @@ export default class Content extends Component {
         <hr/>
         <div class="post-preview">
         <Link to="/post" className="nav-link"><h2 class="post-title">
-              Science has not yet mastered prophecy
+        You Don't Know JS, YET!
             </h2>
             <h3 class="post-subtitle">
             Find Out They Did It...
