@@ -1,0 +1,13 @@
+.jumbotron {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url(https://i.pinimg.com/originals/0b/bf/86/0bbf86a8f8cd7032e92801bce4fddfd2.jpg);
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+}
+
+#postJumbo {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url(https://onedublin.files.wordpress.com/2014/01/black-girls-code-classroom-2.jpg);
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+}
