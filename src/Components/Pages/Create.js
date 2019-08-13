@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import axios from 'axios';
+import '../Pages/style.css';
+import Jumbotron from '../../Partials/Jumbotron/Jumbotron2';
 
 
 export default class CreatePost extends Component {
@@ -70,8 +72,10 @@ export default class CreatePost extends Component {
     }
     render() {
         return (
-            <div style={{marginTop: 10}}>
-                <h3>Create New Article</h3>
+
+            <div style={{marginTop: 10,} }>
+
+                <h1 className= "jumbo-header">Create New Article</h1>
                 <form onSubmit={this.onSubmit}>
                     <div className="form-group"> 
                         <label>Article Title: </label>

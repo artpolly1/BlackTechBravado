@@ -5,6 +5,7 @@ import Edit from './Components/Pages/Edit';
 import Home from './Components/Pages/Home';
 import Profile from './Components/Pages/Profile';
 import Post from './Components/Pages/Post';
+import './Components/Pages/ValidatedLoginForm.css';
 
 
 class App extends Component {
@@ -13,11 +14,11 @@ class App extends Component {
       <Router>
         <div >
         <nav className="navbar navbar-expand-lg navbar-light bg-light p-3">
-            <Link to="/" className="navbar-brand">BLACK TECH BRAVADO</Link>
+            <Link to="/" className="navbar-brand">BTB</Link>
             <div className="collpase navbar-collapse">
               <ul className="navbar-nav mr-auto">
               <li className="navbar-item">
-                  <Link to="/post" className="nav-link">Post</Link>
+                  <Link to="/post" className="nav-link">Log-In</Link>
                 </li>
               <li className="navbar-item">
                   <Link to="/profile" className="nav-link">Profile</Link>
