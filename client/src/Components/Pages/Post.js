@@ -7,9 +7,6 @@ export default class Profile extends Component {
         return (
 <div>
 <Jumbotron />
-<ValidatedLoginForm />
-
-
 </div>
                 
     

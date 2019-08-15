@@ -48,7 +48,6 @@ const ValidatedLoginForm = () => (
             <div className="input-feedback">{errors.email}</div>
 
           )}
-
           <label className="login" htmlFor="email">Password</label>
           <input
             name="password"

@@ -74,6 +74,7 @@ export default class CreatePost extends Component {
         return (
 
             <div style={{marginTop: 10,} }>
+               
 
                 <h1 className= "jumbo-header">Create New Article</h1>
                 <form onSubmit={this.onSubmit}>

@@ -16,9 +16,11 @@ export default class TodosList extends Component {
 <section id ="welcome">
         <div class="container">
         <div class="welcome text-center wow slideInLeft">
-            <h1>Join Our Mailing list</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia placeat facere dolore corporis explicabo voluptates magni, qui cum obcaecati. Eum dolor architecto in rerum qui id doloribus dolorem ut totam?</p>
-            <button type="submit" class="btn home-btn bg-light">Submit</button>
+            <h1>\Escaping\the Generational STEM gap</h1>
+            <p>One <strong>STUDENT</strong> At A Time</p>
+
+
+            
         </div>   
         </div>
     </section>
@@ -38,14 +40,13 @@ export default class TodosList extends Component {
                     <div class="col-md-6 text-justify">
         <h3>Problems Beyond Hiring Practices</h3>
         <h4>Written by:Amadou Diallo</h4>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis fugit dolores voluptatibus ad natus, incidunt nulla? Quod laudantium illum nam nostrum nisi quibusdam quae temporibus consectetur illo! Odit, voluptate earum.</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit distinctio odio ut praesentium inventore, beatae sit sunt expedita similique ?</p>
+        <p>Today’s approach couldn’t be more different. Census data shows, for example, that the majority of people who took a new job last year weren’t searching for one: Somebody came and got them. Companies seek to fill their recruiting funnel with as many candidates as possible, especially “passive candidates,” who aren’t looking to move. Often employers advertise jobs that don’t exist, hoping to find people who might be useful later on or in a different context.</p>
     </div>
 
     <div class="col-md-6 text-justify">
             <h3>AA Coder Blazes Tech</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis fugit dolores voluptatibus ad natus, incidunt nulla? Quod laudantium illum nam nostrum nisi quibusdam quae temporibus consectetur illo! Odit, voluptate earum.</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit distinctio odio ut praesentium inventore, beatae sit sunt expedita similique ?</p>
+            <p>Black entrepreneurs make up a tiny percentage of the tech workforce. Gregory Lowe started out with no formal coding education or investor-relation training, but is now the designer of multiple successful mobile applications.</p>
+            <p>Watch clip to learn more about Mr. Lowe's journey into techa and what he believes to be the driving force to his success in this arena.</p>
         </div>
         <div class="col-md-6">
         <div class="embed-responsive embed-responsive-16by9">
@@ -65,24 +66,24 @@ export default class TodosList extends Component {
                     <div class="col-md-3">
                     <img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" alt="MongoDB-logo" id="iconTwo"/>
                     <h4><strong>MongoDB</strong></h4>
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste odit adipisci maxime corrupti saepe commodi iusto debitis.</p>
+    <p>MongoDB is an open-source document-based database management tool that stores data in JSON-like formats. It is a highly scalable, flexible and distributed NoSQL database.</p>
                     </div>
                     <div class="col-md-3">
     <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="white shoes" id="iconTwo" />
     <h4><strong>Express</strong></h4>
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste odit adipisci maxime corrupti saepe commodi iusto debitis.</p>
+    <p>Express is a routing and middleware web framework that has minimal functionality of its own: An Express application is essentially a series of middleware function callsc</p>
     </div>
 
     <div class="col-md-3" >
     <img src="https://www.trzcacak.rs/myfile/detail/25-250313_file-react-icon-svg-react-native-logo-png.png" id="iconThree" />
     <h4><strong>React</strong></h4>
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste odit adipisci maxime corrupti saepe commodi iusto debitis.</p>
+    <p>ReactJS basically is an open-source JavaScript library which is used for building user interfaces specifically for single page applications. It's used for handling view layer for web and mobile apps. React also allows us to create reusable UI components.</p>
     </div>
 
     <div class="col-md-3" >
     <img src="https://readyspace.com.hk/wp-content/uploads/2018/01/logo-hexagon-card.png"  id="iconThree"/>
-    <h4><strong>React</strong></h4>
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste odit adipisci maxime corrupti saepe commodi iusto debitis.</p>
+    <h4><strong>Node</strong></h4>
+    <p>Node.js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.</p>
     </div>
                     </div>
                 </div>
@@ -130,47 +131,7 @@ export default class TodosList extends Component {
 </div>
 </div>
         
-        <section id="footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-3">
-                
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit distinctio odio ut praesentium inventore?</p>
-
-            </div>
-            <div class="col-md-3">
-                    <h1>Features</h1>
-                    <p>HTML</p>
-                    <p>CSS</p>
-                    <p>NETWORKING</p>
-                    <p>REACT</p>
-                    <p>UNLIMITED RESOURCES</p>
-    
-                </div>
-                
-                <div class="col-md-3">
-                        <h1>Quick Contact</h1>
-                        <p><span class="fas fa-phone-square icon"></span>213-599-1234</p>
-                        <p><span class="far fa-envelope icon"></span>contact@gmail.com</p>
-                        <p><span class="fas fa-home icon"></span>7610 Jackwood St. </p>
-                        <p class="city">Houston, TX 77071</p>
-                       
-        
-                    </div>
-                    <div class="col-md-3">
-                            <h1>Follow Us On</h1>
-                            <p><span class="fab fa-facebook-square icon2"></span>Facebook</p>
-                            <p><span class="fab fa-twitter-square icon2"></span>Twitter</p>
-                            <p><span class="fab fa-instagram icon2"></span>Instagram </p>
-                            <p><span class="fab fa-youtube-square icon2"></span>YouTube </p>
-                            
-                        </div>
-    
-        </div><hr/>
-
-        <p class="copyright">Created By: <span/>  Arthur T. Polly</p>
-    </div>
-</section>
+       
 
 
 

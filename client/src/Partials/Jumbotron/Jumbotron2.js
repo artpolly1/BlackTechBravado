@@ -7,7 +7,6 @@ export default class Jumbotron extends Component {
             <div id="postJumbo" className="jumbotron jumbotron-fluid jum">
   <div className="container">
     <h1 className="display-4 text-center mt-5 jumbo-header">Black Tech Bravado</h1>
-    <p className="lead text-center"><strong>/Blog/</strong></p>
   </div>
 </div>
         )
